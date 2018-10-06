@@ -1,7 +1,8 @@
- {
-  "token" : "(process.env.BOT_TOKEN)", 
+ 
+{
+  "token" : "Bot token goes here", //لا تلعب بيها بقيه ثابته
   "ms" : 1500,
-  "roleToDisco" : ["disco"], 
-  "prefix" : "=",
-  "allowedUsers" : ["477108070409830424", ""] 
+  "roleToDisco" : ["recolore"], // اسم رتبه انت اختارها
+  "prefix" : "+",// تقدر تبدلها
+  "allowedUsers" : ["477108070409830424", ""] ///ايدي حقك 
 }
