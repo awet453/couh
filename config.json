@@ -1,5 +1,5 @@
  {
-  "token" : "Bot token goes here", 
+  "token" : "process.env.BOT_TOKEN", 
   "ms" : 1500,
   "roleToDisco" : ["disco"], 
   "prefix" : "=",
