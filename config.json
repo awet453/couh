@@ -1,8 +1,8 @@
  
 {
-  "token" : "Bot token goes here", //لا تلعب بيها بقيه ثابته
+  "token" : "Bot token goes here", 
   "ms" : 1500,
-  "roleToDisco" : ["recolore"], // اسم رتبه انت اختارها
+  "roleToDisco" : ["recolore"], 
   "prefix" : "+",// تقدر تبدلها
-  "allowedUsers" : ["477108070409830424", ""] ///ايدي حقك 
+  "allowedUsers" : ["477108070409830424", ""]
 }
