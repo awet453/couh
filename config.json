@@ -3,6 +3,6 @@
   "token" : "Bot token goes here", 
   "ms" : 1500,
   "roleToDisco" : ["recolore"], 
-  "prefix" : "+",// تقدر تبدلها
+  "prefix" : "+",
   "allowedUsers" : ["477108070409830424", ""]
 }
