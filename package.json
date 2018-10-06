@@ -22,7 +22,6 @@
     "zalgolize":"1.2.4",
     "eris":"0.8.5",
     "quick.db":"6.3.1",
-    "google-translate-api":"2.3.0",
     "ascii-data-table":"2.1.1",
     "array-sort": "1.0.0",
     "table": "4.0.3",
@@ -45,7 +44,6 @@
     "ytdl-core": "^0.20.2",
      "ffmpeg": "0.0.4",
     "pretty-ms": "3.1.0", 
-    "ffmpeg-binaries": "^3.2.2-3",
     "simple-youtube-api": "^5.0.2",
       "gif-search": "^2.0.1"
   }
